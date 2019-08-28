@@ -1,4 +1,4 @@
-package proverbs
+package pkg
 
 import (
 	"fmt"
