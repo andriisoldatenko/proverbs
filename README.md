@@ -2,7 +2,7 @@
 Proverbs from @rob_pike's inspiring talk at Gopherfest SV 2015 (video)
 
 
-```bash
+```
 go run github.com/andriisoldatenko/proverbs
 
 Go Proverbs, by Rob Pike
